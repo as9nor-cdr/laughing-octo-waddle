@@ -17,9 +17,11 @@ HTMLの練習
 <p>
 次の段落です。
 </p>
+
 </body>
 <h3>画像の挿入</h3>
-<img width=500 height=400 src="嘘だろ.jpg">
+<img width=500 height=400 src="![嘘だろ](https://github.com/user-attachments/assets/673cc0c6-6d7c-480c-92c3-d60311b8f3a5")
+">
 <h3>リンクの設定</h3>
 <p><a href="https://yahoo.co.jp">Yahoo JAPAN</a>
 <p><a href="https://google.co.jp">Google</a>
