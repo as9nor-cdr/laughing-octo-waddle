@@ -20,7 +20,7 @@ HTMLの練習
 
 </body>
 <h3>画像の挿入</h3>
-<img width=500 height=400 src=![嘘だろ](https://github.com/user-attachments/assets/8505bdee-6350-4452-b4ea-ae2ecce8984f)>
+<img width=500 height=400 src=嘘だろ.jpg>
 <h3>リンクの設定</h3>
 <p><a href="https://yahoo.co.jp">Yahoo JAPAN</a>
 <p><a href="https://google.co.jp">Google</a>
@@ -31,3 +31,4 @@ HTMLの練習
 
 </html>
 
+![嘘だろ](https://github.com/user-attachments/assets/5699c332-520d-497a-b714-17186477ac7e)
