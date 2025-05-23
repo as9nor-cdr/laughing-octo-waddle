@@ -19,8 +19,7 @@ HTMLの練習
 </p>
 
 </body>
-<h3>画像の挿入</h3>
-<img width=500 height=400 src=嘘だろ.jpg>
+
 <h3>リンクの設定</h3>
 <p><a href="https://yahoo.co.jp">Yahoo JAPAN</a>
 <p><a href="https://google.co.jp">Google</a>
