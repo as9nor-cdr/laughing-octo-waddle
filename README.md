@@ -20,7 +20,7 @@ HTMLの練習
 
 </body>
 <h3>画像の挿入</h3>
-<img width=500 height=400 src="![嘘だろ](https://github.com/user-attachments/assets/673cc0c6-6d7c-480c-92c3-d60311b8f3a5)">
+<img width=500 height=400 src=![嘘だろ](https://github.com/user-attachments/assets/8505bdee-6350-4452-b4ea-ae2ecce8984f)>
 <h3>リンクの設定</h3>
 <p><a href="https://yahoo.co.jp">Yahoo JAPAN</a>
 <p><a href="https://google.co.jp">Google</a>
@@ -30,3 +30,4 @@ HTMLの練習
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGCef-qBIxg?si=Wnc2Z_X9bOUHjDsR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </html>
+
