@@ -1,54 +1,31 @@
-<header>
+<html>
+<head>
+<title>FLAME
+</title>
+</head>
+<body bgcolor="#99CCFF" text="#333333">
+<h2>HTMLの壹岐芳弘本</h2>
+ここに本文を書いていきます。
+このように，HTMLファイル内での開業は，ブラウザでは無視されます。
+開業して見やすくするには段落を設定します。
+<p>
+<h3>段落</h3>
+ここは段落の中です。
+段落を設定すると，改行されて，前後に一行分のスペースが入ります。
+HTMLの練習
+</p>
+<p>
+次の段落です。
+</p>
+</body>
+<h3>画像の挿入</h3>
+<img width=500 height=400 src="嘘だろ.jpg">
+<h3>リンクの設定</h3>
+<p><a href="https://yahoo.co.jp">Yahoo JAPAN</a>
+<p><a href="https://google.co.jp">Google</a>
+<h3>Google Mapの埋め込み</h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6484.93389475073!2d139.61443657763823!3d35.64086549714765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1747451964025!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<h3>You Tubeの埋め込み</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGCef-qBIxg?si=Wnc2Z_X9bOUHjDsR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+</html>
